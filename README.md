@@ -5,7 +5,7 @@ I am a second-year computer engineering student, passionate about exploring the 
 
 ## 🚀 What I'm Up To:
 - 🏎️ Exploring Machine learning 
-- 🤖 Automating daily tasks with Python 
+- 🤖 Automating tasks with Python scripting 
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krisshdiwedy38/) 
