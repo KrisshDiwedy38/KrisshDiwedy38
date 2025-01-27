@@ -1,11 +1,11 @@
 <h1 align = "center">Hi 👋 I’m Krissh Diwedy </h1>
 
 # 💫 About Me:
-I am a second-year computer engineering student, passionate about exploring the realms of coding, machine learning, finance, building robust applications and solving problems.
+I'm a second-year Computer Engineering student with a deep passion for coding, machine learning, finance, and building innovative, robust applications. I thrive on solving real-world problems through technology and continuous learning.
 
 ## 🚀 What I'm Up To:
-- 🏎️ Exploring Machine learning 
-- 🤖 Automating tasks with Python scripting 
+- 🏎️ Delving into the exciting world of Machine Learning to unlock new possibilities.
+- 🤖 Automating everyday tasks with Python scripting to boost productivity and efficiency.
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krisshdiwedy38/) 
