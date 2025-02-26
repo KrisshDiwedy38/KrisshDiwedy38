@@ -5,7 +5,7 @@ I'm a second-year Computer Engineering student with a deep passion for coding, m
 
 ## 🚀 What I'm Up To:
 - 🏎️ Delving into the exciting world of Machine Learning to unlock new possibilities.
-- 📊 Diving into Finance with Algorithmic trading using Python.
+- 📊 Diving into Finance with Algorithmic trading.
 - 🤖 Automating everyday tasks with Python scripting to boost productivity and efficiency.
 
 ## 🌐 Connect With Me:
