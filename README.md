@@ -1,7 +1,7 @@
 <h1 align = "center">Hi 👋 I’m Krissh Diwedy </h1>
 
 # 💫 About Me:
-I'm a second-year Computer Engineering student with a deep passion for coding, machine learning, finance, and building innovative, robust applications. I thrive on solving real-world problems through technology and continuous learning.
+I'm a third-year Computer Science and Engineering student with a deep passion for coding, machine learning, finance, and building innovative, robust applications. I thrive on solving real-world problems through technology and continuous learning.
 
 ## 🚀 What I'm Up To:
 - 🏎️ Delving into the exciting world of Machine Learning to unlock new possibilities.
