@@ -3,11 +3,11 @@
 # 💫 About Me:
 I'm a third-year Computer Science and Engineering student with a deep passion for coding, machine learning, finance, and building innovative, robust applications. I thrive on solving real-world problems through technology and continuous learning.
 
-## 🚀 What I'm Up To:
-- 🏎️ Delving into the exciting world of Machine Learning to unlock new possibilities.
-- 📊 Exploring Finance with Python.
-- 🤖 Automating everyday tasks with Python scripting to boost productivity and efficiency.
-- 💡 Creating applications to solve real world problems and have fun.
+## 🚀 What I'm Up To
+- 🧠 Currently diving deep into the world of **Machine Learning**, experimenting with models to unlock new possibilities.
+- 💹 Exploring the intersection of **Finance and Python**, building tools that generate meaningful, data-driven insights.
+- 🤖 Crafting smart **automation scripts** to simplify workflows and boost everyday productivity.
+- 🛠️ Developing **real-world applications** that solve practical problems and having a great time doing it!
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krisshdiwedy38/) 
