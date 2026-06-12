@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" height="100%">
+  <defs>
+    <style>
+      .orange-text {
+        fill: #f97316; /* Vibrant GitHub Orange */
+        font-family: 'Courier New', Courier, Monaco, monospace;
+        font-size: 16px;
+        font-weight: bold;
+        white-space: pre;
+      }
+      /* Subtle hover scale animation for a premium feel */
+      .banner-g {
+        transform-origin: center;
+        transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      .banner-g:hover {
+        transform: scale(1.02);
+      }
+    </style>
+  </defs>
+
+  <!-- Transparent background by default so it blends into GitHub README perfectly -->
+  <g class="banner-g">
+    <!-- Centered block character lines using monospace text -->
+    <text x="50%" y="45" text-anchor="middle" class="orange-text">██    ██   ███████     ██████    ███████     ███████    ██     ██</text>
+    <text x="50%" y="65" text-anchor="middle" class="orange-text">██   ██    ██    ██      ██     ██     ██   ██     ██   ██     ██</text>
+    <text x="50%" y="85" text-anchor="middle" class="orange-text">██  ██     ██    ██      ██     ██          ██          ██     ██</text>
+    <text x="50%" y="105" text-anchor="middle" class="orange-text">██ ██      ██    ██      ██     ██          ██          ██     ██</text>
+    <text x="50%" y="125" text-anchor="middle" class="orange-text">████       ███████       ██      ███████     ███████    █████████</text>
+    <text x="50%" y="145" text-anchor="middle" class="orange-text">██ ██      ██   ██       ██            ██          ██   ██     ██</text>
+    <text x="50%" y="165" text-anchor="middle" class="orange-text">██  ██     ██    ██      ██            ██          ██   ██     ██</text>
+    <text x="50%" y="185" text-anchor="middle" class="orange-text">██   ██    ██    ██      ██     ██     ██   ██     ██   ██     ██</text>
+    <text x="50%" y="205" text-anchor="middle" class="orange-text">██    ██   ██    ██    ██████    ███████     ███████    ██     ██</text>
+  </g>
+</svg>
+
