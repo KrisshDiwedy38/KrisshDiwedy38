@@ -81,18 +81,17 @@ DevOps / Cloud            ██████░░░░░░░░░░░░
 ```
 
 ---
-<!--
 ## 🗺️ 2026 Roadmap
 
 ```
-Q1 2026  ████████████████████  ✅  End-sem prep · SGPA 8.5 target
-Q2 2026  ████████████░░░░░░░░  🔨  Polish DreamHive & Tibbit for applications
-Q2 2026  ████████░░░░░░░░░░░░  🔨  Big Tech interview prep (DSA + ML)
-Q3 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  Internship / Research role secured
-Q3 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  GRE + SOP drafts for grad school apps
-Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🌍  Grad school applications — international
+Q1 2026  ████████████████████  ✅  Freelance work
+Q2 2026  ██████████████████░░  🔨  Portfolio — polishing & publishing
+Q2 2026  ██████████████░░░░░░  🔨  Tibbit — building & refining
+Q2 2026  ████████░░░░░░░░░░░░  🔨  DreamHive — early stage
+Q3 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  Mobile App
+Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  RAG Web App
 ```
--->
+---
 
 ## 💡 Currently Learning
 
