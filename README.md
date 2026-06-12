@@ -49,21 +49,21 @@ const krissh = {
 
 <div align="center">
 
-**◦ Languages ◦**
+**◦ Frontend ◦**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,r&theme=dark&perline=8"/>
-
-**◦ AI / ML ◦**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=8"/>
 
 **◦ Backend & Database ◦**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,sqlite&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,mongodb,redis&theme=dark&perline=8"/>
 
-**◦ Tools & DevOps ◦**
+**◦ Infrastructure & DevOps ◦**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,linux&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,anaconda,linux&theme=dark&perline=8"/>
+
+**◦ AI / ML ◦**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=8"/>
 
 </div>
 
@@ -72,16 +72,16 @@ const krissh = {
 ## 📊 Skill Matrix
 
 ```
-Machine Learning / DL     ████████████████████░░  90%
+Frontend Development      ████████████████████░░  90%
 Python & Data Science     ███████████████████░░░░  88%
 Backend / APIs            █████████████████░░░░░░  80%
-LLM Engineering / RAG     ███████████████░░░░░░░░  72%
-Frontend Development      █████████████░░░░░░░░░░  65%
-DevOps / Cloud            ████████████░░░░░░░░░░░  60%
+Machine Learning / DL     ██████████████░░░░░░░░░  68%
+LLM Engineering / RAG     █████████████░░░░░░░░░░  62%
+DevOps / Cloud            ██████░░░░░░░░░░░░░░░░░  30%
 ```
 
 ---
-
+<!--
 ## 🗺️ 2026 Roadmap
 
 ```
@@ -92,8 +92,7 @@ Q3 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  Int
 Q3 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  GRE + SOP drafts for grad school apps
 Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🌍  Grad school applications — international
 ```
-
----
+-->
 
 ## 💡 Currently Learning
 
@@ -111,8 +110,8 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🌍  Gra
 ```typescript
 const currentlyLearning = {
   focus    : ["Advanced RL", "LLM Engineering", "System Design"],
-  building : "DreamHive + Tibbit — polishing for big tech & grad apps",
-  goal     : "Crack a top AI/ML role or land a strong grad school offer 🎯",
+  building : "DreamHive + Tibbit + Anything that captures my curiosity.",
+  goal     : "BUild my own startup. ",
 };
 ```
 
@@ -135,9 +134,3 @@ const currentlyLearning = {
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,60:030912,100:030712&height=120&section=footer&text=Learn.%20Build.%20Ship.&fontColor=1f2937&fontSize=16&fontAlignY=70&animation=fadeIn"/>
-
-</div>
