@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2000&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=520&lines=Building+DreamHive+%F0%9F%90%9D;Building+Tibbit+%F0%9F%A4%96;Deep+Learning+%C2%B7+RL+%C2%B7+LLM+Engineering;AI+%2B+Full-Stack+%3D+My+Stack;Student+%7C+Builder+%7C+Delhi+%F0%9F%87%AE%F0%9F%87%B3;Learn+deep.+Build+real.+Ship+fast." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2000&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=520&lines=Learn+Deep+%7C+Build+Real+%7C+Ship+Fast;Student+%7C+Builder+%7C+Dreamer" />
 
 <br/><br/>
 
@@ -33,15 +33,14 @@
 const krissh = {
   role      :  "AI/ML Engineer & Full-Stack Developer",
   projects  :  ["DreamHive 🐝", "Tibbit 🤖"],
-  focus     :  ["Deep Learning", "Reinforcement Learning", "LLM Engineering"],
-  stack     :  ["Python", "FastAPI", "Django", "React", "PostgreSQL", "Docker"],
-  studying  :  "B.Tech CSE (Data Science & AI) — 3rd Year",
-  interned  :  "Calmi — AI/ML Engineering",
+  focus     :  ["AI-Powered SaaS","Impactful Products","LLM Engineering"],
+  stack     :  ["Python", "FastAPI", "Django", "TypeScript", "React", "PostgreSQL", "Docker", "AWS],
+  studying  :  "B.Tech CSE (AI & ML) — 4th Year",
   mindset   :  "Learn deep. Build real. Ship fast.",
-  goal2026  :  "Big Tech · AI Startup · Grad School Abroad",
+  goal2026  :  "1,000+ Users, · Mobile app",
   openTo    :  ["AI/ML Collabs", "LLM Projects", "Research Opportunities"],
 };
-// currently: sharpening ML fundamentals + polishing projects for applications
+// currently: sharpening ML fundamentals + polishing projects
 ```
 
 ---
