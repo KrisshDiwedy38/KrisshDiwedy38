@@ -1,20 +1,144 @@
-<h1 align = "center">Hi 👋 I’m Krissh Diwedy </h1>
+<div align="center">
 
-# 💫 About Me:
-I'm a third-year Computer Science and Engineering student with a deep passion for coding, machine learning, finance, and building innovative, robust applications. I thrive on solving real-world problems through technology and continuous learning.
+<h1><strong>Krissh Diwedy</strong></h1>
 
-## 🚀 What I'm Up To
-- 🧠 Currently diving deep into the world of **Machine Learning**, experimenting with models to unlock new possibilities.
-- 💹 Exploring the intersection of **Finance and Python**, building tools that generate meaningful, data-driven insights.
-- 🤖 Crafting smart **automation scripts** to simplify workflows and boost everyday productivity.
-- 🛠️ Developing **real-world applications** that solve practical problems and having a great time doing it!
+`// ai/ml engineer · full-stack · building DreamHive & Tibbit`
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krisshdiwedy38/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krissh.diwedy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KDiwedy) 
+</div>
 
-# 💻 Tech Stack:
-- Languages : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-- Developer Tools : ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-- Databases : ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- Libraries/Framework: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2000&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=520&lines=Building+DreamHive+%F0%9F%90%9D;Building+Tibbit+%F0%9F%A4%96;Deep+Learning+%C2%B7+RL+%C2%B7+LLM+Engineering;AI+%2B+Full-Stack+%3D+My+Stack;Student+%7C+Builder+%7C+Delhi+%F0%9F%87%AE%F0%9F%87%B3;Learn+deep.+Build+real.+Ship+fast." />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krissh_Diwedy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712)](https://linkedin.com/in/krisshdiwedy38/)
+[![Instagram](https://img.shields.io/badge/Instagram-@krissh.diwedy-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030712)](https://instagram.com/krissh.diwedy)
+[![X](https://img.shields.io/badge/X-@KDiwedy-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=030712)](https://x.com/@KDiwedy)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712)](mailto:krisshdiwedy38@gmail.com)
+
+<br/>
+
+![](https://img.shields.io/badge/●_BUILDING-DreamHive_%26_Tibbit-00d4ff?style=flat-square&labelColor=030712)
+![](https://img.shields.io/badge/📍-Delhi,_India-1f2937?style=flat-square&labelColor=030712)
+![](https://img.shields.io/badge/🤝-Open_to_Collabs-a5b4fc?style=flat-square&labelColor=030712)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```typescript
+const krissh = {
+  role      :  "AI/ML Engineer & Full-Stack Developer",
+  projects  :  ["DreamHive 🐝", "Tibbit 🤖"],
+  focus     :  ["Deep Learning", "Reinforcement Learning", "LLM Engineering"],
+  stack     :  ["Python", "FastAPI", "Django", "React", "PostgreSQL", "Docker"],
+  studying  :  "B.Tech CSE (Data Science & AI) — 3rd Year",
+  interned  :  "Calmi — AI/ML Engineering",
+  mindset   :  "Learn deep. Build real. Ship fast.",
+  goal2026  :  "Big Tech · AI Startup · Grad School Abroad",
+  openTo    :  ["AI/ML Collabs", "LLM Projects", "Research Opportunities"],
+};
+// currently: sharpening ML fundamentals + polishing projects for applications
+```
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+**◦ Languages ◦**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,r&theme=dark&perline=8"/>
+
+**◦ AI / ML ◦**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark&perline=8"/>
+
+**◦ Backend & Database ◦**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,sqlite&theme=dark&perline=8"/>
+
+**◦ Tools & DevOps ◦**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,linux&theme=dark&perline=8"/>
+
+</div>
+
+---
+
+## 📊 Skill Matrix
+
+```
+Machine Learning / DL     ████████████████████░░  90%
+Python & Data Science     ███████████████████░░░░  88%
+Backend / APIs            █████████████████░░░░░░  80%
+LLM Engineering / RAG     ███████████████░░░░░░░░  72%
+Frontend Development      █████████████░░░░░░░░░░  65%
+DevOps / Cloud            ████████████░░░░░░░░░░░  60%
+```
+
+---
+
+## 🗺️ 2026 Roadmap
+
+```
+Q1 2026  ████████████████████  ✅  End-sem prep · SGPA 8.5 target
+Q2 2026  ████████████░░░░░░░░  🔨  Polish DreamHive & Tibbit for applications
+Q2 2026  ████████░░░░░░░░░░░░  🔨  Big Tech interview prep (DSA + ML)
+Q3 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  Internship / Research role secured
+Q3 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  GRE + SOP drafts for grad school apps
+Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🌍  Grad school applications — international
+```
+
+---
+
+## 💡 Currently Learning
+
+<div align="center">
+
+![](https://img.shields.io/badge/Deep_Learning-CNNs_%26_Transformers-a5b4fc?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=030712)
+![](https://img.shields.io/badge/Reinforcement_Learning-MDPs_%26_Policy_Gradients-00d4ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=030712)
+![](https://img.shields.io/badge/LLM_Engineering-RAG_%26_Fine--tuning-ffa657?style=for-the-badge&logo=openai&logoColor=white&labelColor=030712)
+
+![](https://img.shields.io/badge/System_Design-Scalable_Architecture-00ff88?style=for-the-badge&labelColor=030712)
+![](https://img.shields.io/badge/DSA-Interview_Prep-ff6b6b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=030712)
+
+</div>
+
+```typescript
+const currentlyLearning = {
+  focus    : ["Advanced RL", "LLM Engineering", "System Design"],
+  building : "DreamHive + Tibbit — polishing for big tech & grad apps",
+  goal     : "Crack a top AI/ML role or land a strong grad school offer 🎯",
+};
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+> Into **AI/ML**, **LLMs**, or **building useful things**?
+> Always open to ideas, collabs, and feedback. Reach out anywhere below.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisshdiwedy38/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krissh.diwedy)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@KDiwedy)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krisshdiwedy38@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,60:030912,100:030712&height=120&section=footer&text=Learn.%20Build.%20Ship.&fontColor=1f2937&fontSize=16&fontAlignY=70&animation=fadeIn"/>
+
+</div>
