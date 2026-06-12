@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><strong>Krissh Diwedy</strong></h1>
+![Krissh Diwedy ASCII Banner](/banner.svg)
 
 `// ai/ml engineer · full-stack · building DreamHive & Tibbit`
 
