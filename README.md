@@ -34,7 +34,7 @@ const krissh = {
   role      :  "AI/ML Engineer & Full-Stack Developer",
   projects  :  ["DreamHive 🐝", "Tibbit 🤖"],
   focus     :  ["AI-Powered SaaS","Impactful Products","LLM Engineering"],
-  stack     :  ["Python", "FastAPI", "Django", "TypeScript", "React", "PostgreSQL", "Docker", "AWS],
+  stack     :  ["Python", "FastAPI", "Django", "TypeScript", "React", "PostgreSQL", "Docker", "AWS"],
   studying  :  "B.Tech CSE (AI & ML) — 4th Year",
   mindset   :  "Learn deep. Build real. Ship fast.",
   goal2026  :  "1,000+ Users, · Mobile app",
