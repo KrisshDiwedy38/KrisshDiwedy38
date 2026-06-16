@@ -109,9 +109,9 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  100
 
 ```typescript
 const currentlyLearning = {
-  focus    : ["Advanced RL", "LLM Engineering", "System Design"],
+  focus    : ["Advanced RL", "LLM Engineering", "System Design", "Mobile Dev"],
   building : "DreamHive + Tibbit + Anything that captures my curiosity.",
-  goal     : "BUild my own startup. ",
+  goal     : "Build my own startup.",
 };
 ```
 
