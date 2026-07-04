@@ -72,7 +72,7 @@ const krissh = {
 ## 📊 Skill Matrix
 
 ```
-Frontend Development      ████████████████████░░  90%
+Frontend Development      ████████████████████░░░  90%
 Python & Data Science     ███████████████████░░░░  88%
 Backend / APIs            █████████████████░░░░░░  80%
 Machine Learning / DL     ██████████████░░░░░░░░░  68%
@@ -85,7 +85,7 @@ DevOps / Cloud            ██████░░░░░░░░░░░░
 
 ```
 Q1 2026  ████████████████████  ✅  Freelance work
-Q2 2026  ████████████████████  🔨  Portfolio — polishing & publishing
+Q2 2026  ████████████████████  ✅  Portfolio 
 Q2 2026  ██████████████████░░  🔨  Tibbit — building & refining
 Q3 2026  ████████████░░░░░░░░  🔨  DreamHive — early stage
 Q3 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  Mobile App
