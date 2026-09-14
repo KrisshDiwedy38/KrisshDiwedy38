@@ -88,7 +88,6 @@ Q1 2026  ████████████████████  ✅  Free
 Q2 2026  ████████████████████  ✅  Portfolio 
 Q2 2026  ████████████████████  ✅  Tibbit — building & refining
 Q3 2026  ████████████████████  ✅  DreamHive — early stage
-Q3 2026  █████████░░░░░░░░░░░  🔨  Mobile App
 Q4 2026  ████░░░░░░░░░░░░░░░░  🔨  RAG Web App
 Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  1000+ Active Users
 ```
