@@ -86,8 +86,8 @@ DevOps / Cloud            ██████░░░░░░░░░░░░
 ```
 Q1 2026  ████████████████████  ✅  Freelance work
 Q2 2026  ████████████████████  ✅  Portfolio 
-Q2 2026  ████████████████████  ✅  Tibbit — building & refining
-Q3 2026  ████████████████████  ✅  DreamHive — early stage
+Q2 2026  ████████████████████  ✅  Tibbit - building & refining
+Q3 2026  ████████████████████  ✅  DreamHive - early stage
 Q4 2026  ████░░░░░░░░░░░░░░░░  🔨  Odevah - Open Source Project 
 Q4 2026  ████░░░░░░░░░░░░░░░░  🔨  Lumina AI - GenZ AI Therapist
 Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🎯  1000+ Active Users
